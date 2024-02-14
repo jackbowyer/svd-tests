@@ -5,8 +5,8 @@ The sklearn.decomposition.PCA module produces spurious results for input data ar
 
 The numpy.linalg.svd module performs SVD on both test datasets within the default tolerances of np.allclose() (see svd_tests.py).
 
-Test data:
-X_t_test_noise_float32.npy
+Test data:  
+X_t_test_noise_float32.npy  
 X_t_test_noise_float64.npy
 
-The data is compressed as the files are too large to be uploaded directly.
+The datasets are too large to be uploaded directly. Find them here https://figshare.com/articles/dataset/test_data/25218920.
